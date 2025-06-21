@@ -1,46 +1,47 @@
-Hey there, I'm Cordzyy! 🚀
-Welcome to my GitHub universe! I'm a passionate coder, dreamer, and problem-solver who loves turning ideas into reality through code. Buckle up and explore my world of tech adventures! 🌌
-🔭 What I'm Up To
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo22996
+Fork on GitHub7728
+<h1 align="center">Hi 👋, I'm Cordzzy</h1>
+<h3 align="center">A passionate frontend developer & Web Designer from the Philippines</h3>
 
-Building mind-blowing projects that blend creativity and functionality.
-Diving into open-source contributions to make the world a better-coded place.
-Experimenting with new tools and frameworks to stay ahead of the curve.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cordzyy" alt="cordzyy" /></a> </p>
 
-🌱 Currently Learning
+- 📫 How to reach me **joshuabombitacorda@gmail.com**
 
-Mastering the art of full-stack development with modern frameworks like React, Node.js, and more.
-Exploring AI and machine learning to create smarter, cooler apps.
-Polishing my skills in cloud technologies like AWS and Docker.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/joshuacorda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshuacorda" height="30" width="40" /></a>
+<a href="https://fb.com/corda.juswa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="corda.juswa" height="30" width="40" /></a>
+<a href="https://instagram.com/crdajswa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="crdajswa" height="30" width="40" /></a>
+</p>
 
-👯 Collaboration Vibes
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Got an exciting project? I'm all in for collaborating on innovative web apps, game dev, or automation scripts.
-Let's team up to create something epic that leaves a mark!
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cordzyy&show_icons=true&locale=en&layout=compact" alt="cordzyy" /></p>
 
-🤔 Need Help?
-
-Struggling with JavaScript, Python, or CSS? I'm your go-to for debugging and brainstorming solutions.
-Looking for advice on project architecture or best practices? Let's chat!
-
-💬 Ask Me About
-
-My favorite tech stack (spoiler: it’s always evolving!).
-How I balance coffee and code to stay productive ☕.
-My love for retro games and how they inspire my projects.
-
-📫 Reach Me
-
-Drop me a line on Twitter/X for tech talk or memes.
-Connect with me on LinkedIn for professional vibes.
-Email: yourname@example.com (I promise to reply... eventually!).
-
-😄 Pronouns
-
-He/Him (or just call me Cordzyy, it’s cooler!).
-
-⚡ Fun Fact
-
-I once coded a game in 48 hours during a hackathon... and survived on pizza and energy drinks! 🍕⚡
-
-
-🌟 Check out my pinned repos below for my latest creations!P.S. If you like what you see, give a ⭐ to my projects—it fuels my coding soul!
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
