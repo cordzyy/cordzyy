@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cordzzy</h1>
 <h3 align="center">A passionate Frontend Developer & Web Designer from the Philippines</h3>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=cordzyy" alt="cordzyy" />
   </a>
-</div>
+</div> -->
 
 <p align="center">📫 How to reach me: <strong>joshuabombitacorda@gmail.com</strong></p>
 
