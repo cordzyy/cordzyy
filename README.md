@@ -74,6 +74,7 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cordzyy&show_icons=true&locale=en&layout=compact" alt="cordzyy" />
-</div>
+</div> --> 
+
