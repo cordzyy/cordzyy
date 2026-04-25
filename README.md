@@ -12,14 +12,6 @@
 
 ---
 
-### 🚀 Quick Bio
-- 💻 Currently building a **CMS for the Anti-Money Laundering Council (AMLC)**.
-- 🤖 Developing AI-powered chatbots for the **Presidential Communications Office (PCO)**.
-- 🛠️ Tech Stack: **Next.js, Express, PostgreSQL, Prisma, and Tiptap**.
-- 🏍️ When not coding, I'm likely checking out the latest specs for the **SYM Naga 155**.
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
